@@ -1,1 +1,6 @@
 # Mental-Health-Assessment-Quiz
+The Mental Health Assessment Quiz is a supportive and user-friendly application designed to help individuals understand their mental well-being through a set of simple questions. The quiz focuses on common mental health aspects such as stress, anxiety, mood, and emotional balance. It does not provide medical diagnosis but offers general insights that encourage self-awareness and early attention to mental health.
+
+In this project, users answer multiple-choice questions based on how they have been feeling recently. Each response is assigned a score, and the total score is calculated at the end of the quiz. Based on this score, the system provides a general assessment such as low, moderate, or high stress levels, along with helpful suggestions like relaxation techniques or seeking professional support if needed.
+
+The main aim of this project is to promote mental health awareness while demonstrating how quizzes and assessments can be implemented using basic programming concepts. It involves user input handling, conditional logic, scoring mechanisms, and result interpretation. Overall, the Mental Health Assessment Quiz project combines technology with empathy, helping users reflect on their mental well-being in a simple and non-judgmental way.
